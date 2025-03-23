@@ -13,7 +13,7 @@ A sleek and responsive Weather App that provides real-time weather updates for a
 - **HTML** - Structuring the web page  
 - **CSS** - Styling and responsiveness  
 - **JavaScript** - Fetching and handling weather data
-- 
+  
 ## 🌐 Live Demo
 🔗 **Check it out here:** [Weather App](https://tangerine-kulfi-66f554.netlify.app/)  
 
